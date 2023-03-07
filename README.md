@@ -1,8 +1,8 @@
-[ ] table of contents
-[ ] Packages with access to calendars
-[ ] setting
-[ ] Get Calendar
-[ ] Add event to calendar
+* table of contents
+* Packages with access to calendars
+* setting
+* Get Calendar
+* Add event to calendar
 
 
 #### Package device_calendar with access to calendars
